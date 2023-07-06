@@ -10,7 +10,6 @@ This project is a simple implementation of the classic Tic Tac Toe game in Java,
 4) Game logic to determine the winner or a draw
 5) Reset the game to play again
 
-![Calculator2](https://github.com/dhruvrajzala/TicTacToe-JavaGUI/assets/131596460/d83ef057-7949-4ed0-9234-1eafc9904a3f)
-![calci_img](https://github.com/dhruvrajzala/TicTacToe-JavaGUI/assets/131596460/57695ad4-f651-4ac1-a10b-9f79c95646db)
+
 
 
