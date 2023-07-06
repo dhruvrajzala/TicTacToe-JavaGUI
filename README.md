@@ -9,3 +9,5 @@ This project is a simple implementation of the classic Tic Tac Toe game in Java,
 3) Players can take turns placing their symbols (X or O) on the board
 4) Game logic to determine the winner or a draw
 5) Reset the game to play again
+
+![Calculator1](https://github.com/dhruvrajzala/TicTacToe-JavaGUI/assets/131596460/ef642207-8e2c-4bd3-a915-c0e24a8f7299)
